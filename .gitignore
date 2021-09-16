@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+#Env
+.env
+
+#Xcode Pods
+ios/Pods/*
+
+#Templates
+blueprint-templates

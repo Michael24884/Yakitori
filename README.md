@@ -1,2 +1,2 @@
 # Yakitori
-An anime client app!
+ An anime app full of extensions!
